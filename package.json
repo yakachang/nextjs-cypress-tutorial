@@ -1,4 +1,6 @@
 {
+  "name": "nextjs-cypress-tutorial",
+  "version": "0.1.0",
   "private": true,
   "scripts": {
     "dev": "next dev",
